@@ -4,11 +4,21 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    
+    
 }
 
 .main-container {
-    width: 600px;
     text-align: center;
+    width: 1400px;
+    margin: 20px;
+    position: fixed;
+    left: 250px;
+    
+    
+    
+
+    
 }
 
 .header,
@@ -19,10 +29,19 @@ body {
     background: #ebebeb;
 }
 
+.header {
+    margin: 20px;
+
+}
+
+.nav {
+    margin: 20px;
+}
 
 .article {
     color: #ebebeb;
     background: #777;
+    margin: 20px;
 }
 
 .h1,
@@ -33,4 +52,13 @@ body {
 
 .section {
     width: 495px;
+    margin: 20px;
+}
+
+.aside {
+    margin: 20px;
+}
+
+.footer {
+    margin: 20px;
 }
