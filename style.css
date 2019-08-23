@@ -30,7 +30,7 @@ body {
 
 .header {
     margin-bottom: 20px;
-    padding: 40px;
+    padding: 30px;
     margin-left: 20px;
     margin-right: 20px;
 
@@ -79,18 +79,17 @@ body {
 .aside {
     margin: 20px;
     padding: 40px;
-    width: 495px;
-    margin: 20px;
+    width: 585px;
     
     float: left;
-    height: 350px;
+    height: 385px;
 
 }
 
 .footer {
+    
     margin: 20px;
     padding: 40px;
-    margin-bottom: 40px;
     content: " ";
     display: block;
     clear: both;
