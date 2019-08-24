@@ -2,7 +2,7 @@
 
 ## Images
 
-![Wireframe](picture.png)
+![Site](picture.png)
 
 <hr>
 
