@@ -2,7 +2,7 @@
 
 ## Images
 
-![Site](picture.png)
+![Site](Picture.png)
 
 <hr>
 
